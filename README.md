@@ -6,3 +6,11 @@ Tools to label images easily: https://dida.do/blog/the-best-labeling-tools-for-c
 
 CreateML (Apple) requires an special format for data labeling, you can create it using this script:
 https://github.com/ESbros/CreateML_Annotations_JSON
+
+
+
+Possible training and prediction models:
+- Tensorflow
+- Tensorflow Lite (for devices)
+- Apple CreateML
+- Vertex AI (Google Cloud)
