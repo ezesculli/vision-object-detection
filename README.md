@@ -14,3 +14,10 @@ Possible training and prediction models:
 - Tensorflow Lite (for devices)
 - Apple CreateML
 - Vertex AI (Google Cloud)
+
+
+
+If you want to use Object Detection and you train a model from scratch, it will take forever, you can use Transfer Learning to speed up the process and have an smaller dataset:
+https://www.tensorflow.org/lite/models/modify/model_maker/object_detection
+https://blog.tensorflow.org/2018/07/training-and-serving-realtime-mobile-object-detector-cloud-tpus.html
+
