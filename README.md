@@ -25,3 +25,6 @@ https://blog.tensorflow.org/2018/07/training-and-serving-realtime-mobile-object-
 
 Link to open source images library:
 https://storage.googleapis.com/openimages/web/visualizer/index.html
+
+Tennis balls: https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F05ctyq
+Golf balls: https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F044r5d
