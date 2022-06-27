@@ -21,3 +21,7 @@ If you want to use Object Detection and you train a model from scratch, it will 
 https://www.tensorflow.org/lite/models/modify/model_maker/object_detection
 https://blog.tensorflow.org/2018/07/training-and-serving-realtime-mobile-object-detector-cloud-tpus.html
 
+
+
+Link to open source images library:
+https://storage.googleapis.com/openimages/web/visualizer/index.html
