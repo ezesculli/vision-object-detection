@@ -9,6 +9,9 @@ Easily extract image from video (frames): https://www.youtube.com/watch?v=2Lt1lc
 CreateML (Apple) requires an special format for data labeling, you can create it using this script:
 https://github.com/ESbros/CreateML_Annotations_JSON
 
+Object Detection training without coding, based on YOLOv4:
+https://github.com/BMW-InnovationLab/BMW-YOLOv4-Training-Automation
+
 
 
 Possible training and prediction models:
