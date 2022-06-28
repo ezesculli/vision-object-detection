@@ -5,7 +5,7 @@ Tools to label images easily: https://dida.do/blog/the-best-labeling-tools-for-c
 
 Easily extract image from video (frames): https://www.youtube.com/watch?v=2Lt1lcyweTw&ab_channel=Asoftclick
 
-Super easy to create a simple Model:
+Super easy to create a simple Model for Image Classification, Sound Classification or Pose Classification:
 https://teachablemachine.withgoogle.com/
 
 
